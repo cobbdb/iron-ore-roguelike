@@ -1,7 +1,7 @@
 {
   "name": "rogue-iron",
   "version": "0.0.1",
-  "description": "Roguelike HTML5 Game Engine.",
+  "description": "Roguelike HTML5 game engine built on top of the Iron engine.",
   "main": "rogue-iron.min.js",
   "scripts": {
     "start": "./node_modules/.bin/grunt deploy",
