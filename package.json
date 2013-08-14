@@ -1,7 +1,7 @@
 {
-  "name": "rogue-iron",
+  "name": "iron-ore-roguelike",
   "version": "0.0.1",
-  "description": "Roguelike HTML5 game engine built on top of the Iron engine.",
+  "description": "Roguelike plugin for Iron.",
   "main": "rogue-iron.min.js",
   "scripts": {
     "start": "./node_modules/.bin/grunt deploy",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cobbdb/rogue-iron.git"
+    "url": "git://github.com/cobbdb/iron-ore-roguelike.git"
   },
   "author": "Dan Cobb",
   "license": "MIT",

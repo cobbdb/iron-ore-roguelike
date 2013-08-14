@@ -1,5 +1,5 @@
-# Rogue Iron
-### Roguelike HTML5 game engine built on top of the Iron engine.
+# iron-ore-roguelike
+### Roguelike plugin for Iron.
 Version **0.0.1**
 
 ---
